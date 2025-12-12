@@ -36,7 +36,7 @@ Currently, I am focused on **Cloud-Native Engineering** and **High-Performance G
 I am currently deep-diving into **Distributed System Patterns** in Go.
 
 * **[Go Matrix Operations API](https://github.com/LarryShang/matrix-api)** 
-    * * high-performance Go microservice for processing large matrix data via HTTP file uploads. This project demonstrates production-grade Go patterns, specifically focusing on handling large datasets efficiently using stream processing and concurrency.*
+    *  high-performance Go microservice for processing large matrix data via HTTP file uploads. This project demonstrates production-grade Go patterns, specifically focusing on handling large datasets efficiently using stream processing and concurrency.
 * **[Go Concurrency Patterns](https://github.com/LarryShang/go-concurrency-patterns)**
     * *A collection of production-ready patterns for handling concurrency, fan-out/fan-in, and graceful shutdowns in Go microservices.*
 
